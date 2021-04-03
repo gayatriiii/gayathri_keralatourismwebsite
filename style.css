@@ -1,0 +1,121 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.myMargin{
+    margin: 25px;
+}
+.head-tag{
+    margin-right:2px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
+    color: #fff;
+}
+
+
+/*.photo-wrap  
+{  
+float: left;   
+margin: 30px 12px 3px 4px;   
+
+}   
+
+
+
+.trainwrap
+{  
+float: left;   
+margin: 30px 12px 3px 4px; 
+margin-right: 50%;  
+}*/
+
+
+.p-box{
+    
+    width: 22%;
+    float: left;
+    margin-left: 10px;
+    height: 15em;
+    padding: 5px;
+    
+}
+
+.p-box h3{
+    text-align: center;
+
+}
+.p-box p{
+    line-height: 1.25em;
+    text-align: justify;
+}
+
+
+.reach h2{
+    margin-left: 43%;
+}
+
+.reach h3{
+    margin-left: 10%;
+}
+
+
+
+
+
+
+.food h2{
+    margin-left: 40%;
+}
+
+.food h4{
+    margin-left: 8px;
+}
+
+
+.puttu{
+    margin-left: 5%;
+}
+
+
+.kadala h4{
+    margin-left: 50%;
+    margin-bottom: 50%;
+    padding-bottom: 70%;
+    margin-right: 10%;
+}
+
+
+.appam {
+        margin-bottom: 70%;
+}
+
+.stew{
+    margin-bottom: 40%;
+    margin-top: 70%;
+}
+
+
+#footer {
+    padding-left: 30%;
+	position: fixed;
+	bottom: 0px;
+
+	left: 295px;
+
+}
+
+.art h2{
+    margin-left: 40%;
+}
+
+.art h4{
+    margin-left: 8px;
+}
+
+
+
